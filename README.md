@@ -2,7 +2,7 @@
 
 📌 Project 1: Handwritten Digit Recognition (MNIST)
 Overview
-This project uses a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. It also includes preprocessing of a custom image (6.jpeg) to test the model's prediction capabilities. 
+This project uses a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. It also includes preprocessing of a custom image (6.jpeg) to test the model's prediction capabilities.
 Highlights
 - Preprocessing pipeline for grayscale digit images
 - CNN architecture with dropout and max pooling
