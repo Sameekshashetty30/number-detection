@@ -8,7 +8,7 @@ Highlights
 - CNN architecture with dropout and max pooling
 - Training on MNIST dataset with validation
 - Prediction on custom input image
-- Visualization of original and preprocessed image
+- Visualization of original and preprocessed image 
 Model Architecture
 - Conv2D → ReLU
 - Conv2D → ReLU
